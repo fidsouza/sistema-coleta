@@ -16,7 +16,7 @@
 
 # Como utilizar
 # Clone este repositório
-$ git clone <https://github.com/fidsouza/tindev.git>
+$ git clone <https://github.com/fidsouza/social-coleta.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd sistema-coleta
