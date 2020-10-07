@@ -1,6 +1,7 @@
 # Sistema Coleta
 <p id="sobre" align="center">Projeto para fins de estudo utilizando React e NodeJs como banckend - desenvolvido em janeiro de 2020</p>
-![](video-ecoleta.gif)
+
+![Demo](video-ecoleta.gif)
 
 ![Badge](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Badge](https://img.shields.io/badge/Node-Version%20%3A%2012.18.3-brightgreen)
