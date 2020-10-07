@@ -31,8 +31,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React.js](https://pt-br.reactjs.org/)
-- [Docker] (https://www.docker.com/)
-- [Postgree] (https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
+- [Postgree](https://www.postgresql.org/)
 
 
 ### Autor
